@@ -1,7 +1,7 @@
 FROM ruby:2.4
 MAINTAINER "Martin Kapp <martin@coderats.net>"
 
-LABEL name="Base Ruby 2.4 image with NodeJS 6"
+LABEL name="Base Ruby 2.4 image with NodeJS 6 and bundler"
 LABEL version="1.0"
 
 # Install Node v6. Required for something.
