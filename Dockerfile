@@ -1,4 +1,4 @@
-FROM ruby:2.4
+FROM ruby:2.4.3
 MAINTAINER "Martin Kapp <martin@coderats.net>"
 
 LABEL name="Base Ruby 2.4 image with NodeJS 6 and bundler"
